@@ -20,7 +20,7 @@ class App extends StatelessWidget {
 
                 TextField(
                   decoration: InputDecoration(
-                    prefixIcon: Icon(Icons.keyboard),
+                    prefixIcon: Icon(Icons.account_circle),
                     hintText: "Employee Name",
                     border: OutlineInputBorder()
                   ),
